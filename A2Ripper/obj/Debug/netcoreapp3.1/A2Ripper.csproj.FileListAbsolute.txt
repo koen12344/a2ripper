@@ -1,0 +1,13 @@
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\bin\Debug\netcoreapp3.1\A2Ripper.exe
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\bin\Debug\netcoreapp3.1\A2Ripper.deps.json
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\bin\Debug\netcoreapp3.1\A2Ripper.runtimeconfig.json
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\bin\Debug\netcoreapp3.1\A2Ripper.runtimeconfig.dev.json
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\bin\Debug\netcoreapp3.1\A2Ripper.dll
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\bin\Debug\netcoreapp3.1\A2Ripper.pdb
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\obj\Debug\netcoreapp3.1\A2Ripper.csprojAssemblyReference.cache
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\obj\Debug\netcoreapp3.1\A2Ripper.AssemblyInfoInputs.cache
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\obj\Debug\netcoreapp3.1\A2Ripper.AssemblyInfo.cs
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\obj\Debug\netcoreapp3.1\A2Ripper.csproj.CoreCompileInputs.cache
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\obj\Debug\netcoreapp3.1\A2Ripper.dll
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\obj\Debug\netcoreapp3.1\A2Ripper.pdb
+C:\Users\mobil\source\repos\A2Ripper\A2Ripper\obj\Debug\netcoreapp3.1\A2Ripper.genruntimeconfig.cache

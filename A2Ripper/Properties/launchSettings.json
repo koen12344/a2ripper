@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "A2Ripper": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\Davilex\\A2 Racer III\\Tour 2\\rcs.ind\" \"C:\\Program Files (x86)\\Davilex\\A2 Racer III\\Tour 2\\rcs.img\" \"C:\\Users\\mobil\\Documents\\a2ripper output 3\""
+    }
+  }
+}

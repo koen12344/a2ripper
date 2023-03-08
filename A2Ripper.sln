@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2Ripper", "A2Ripper\A2Ripper.csproj", "{DFC73E22-A670-4F74-9EFA-B30A34E5A086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC73E22-A670-4F74-9EFA-B30A34E5A086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC73E22-A670-4F74-9EFA-B30A34E5A086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC73E22-A670-4F74-9EFA-B30A34E5A086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC73E22-A670-4F74-9EFA-B30A34E5A086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A46AAB16-0BA7-4EDA-92C5-08BFDAF664BE}
+	EndGlobalSection
+EndGlobal
